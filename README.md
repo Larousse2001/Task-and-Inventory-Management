@@ -8,6 +8,10 @@
 
 Larousse is a comprehensive application designed to facilitate efficient team and task management, while also streamlining inventory control and feedback registration. With Larousse, organizations can effortlessly manage and allocate resources, assign tasks with deadlines and dependencies, monitor inventory levels, and capture valuable feedback from team members and stakeholders. Through its intuitive interface and robust features, Larousse empowers teams to enhance productivity, collaborate effectively, and make informed decisions, ultimately driving success and growth for the organization.
 
+<p align="center">
+  <img src="/docs/img.png" alt="img">
+</p>
+
 ## Features
 
 - **Task Management**:
